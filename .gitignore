@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ML artifacts
+*.pt
+*.pth
+*.safetensors
+*.bin
+data/
+checkpoints/
+wandb/
